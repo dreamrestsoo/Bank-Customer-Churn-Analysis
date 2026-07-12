@@ -6,7 +6,6 @@
 ## 사용 기술
 - MySQL
 - Excel
-- GitHub
 
 ## 분석 내용
 - 데이터 탐색
